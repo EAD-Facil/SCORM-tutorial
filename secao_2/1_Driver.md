@@ -23,6 +23,6 @@ Na página que o link abre bem ao final da mesma terá um Dropdown para selecion
 
 No momento vamos trabalhar com "SCORM 2004 4th Edition" selecione-a e clique em Baixar (Download).
 
-![imagem de como baixar o driver](../img/download.png)
+![imagem de como baixar o driver](../download.png)
 
 Será baixado um .zip com o Driver.
